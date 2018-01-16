@@ -7,7 +7,7 @@ console.log("Name:")
 console.log(name)
 
 console.log("Height:")
-<<<<<<< HEAD
+
 console.log(height + 5)
 =======
 console.log(height +5)
